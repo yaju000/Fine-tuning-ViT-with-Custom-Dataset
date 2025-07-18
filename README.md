@@ -44,5 +44,4 @@ python trainer.py
 
 - 使用 ViT 進行影像二分類。
 - 支援自訂資料集路徑。
-- 訓練結束後自動評估並繪製混淆矩陣。# Fine-tuning-ViT-with-Custom-Dataset
-Fine-tuning a ViT model on a custom dataset, which is a smoke dataset
+- 訓練結束後自動評估並繪製混淆矩陣。
